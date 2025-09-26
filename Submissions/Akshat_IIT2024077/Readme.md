@@ -17,3 +17,7 @@ Task submissions for Selection in the WebD Wing of Gravity.
 3. **Task 3: GitHub Fetcher** - App to fetch and display GitHub profiles.
 
 ---
+
+`Note: Currently My Backend Services on render have be exhausted for this month, therefore the deployed links provided in the Google Form may not work, they will be resumed in the next month.`
+
+<img width="1451" height="342" alt="image" src="https://github.com/user-attachments/assets/58b569e5-e45f-4280-ba4e-f996b1d86f7f" />
